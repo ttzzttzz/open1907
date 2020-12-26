@@ -6,3 +6,4 @@ src-git lienol https://github.com/Lienol/openwrt-package.git;main
 src-git diy1 https://github.com/xiaorouji/openwrt-passwall.git;main
 src-git freifunk https://github.com/freifunk/openwrt-packages.git;openwrt-19.07
 src-git offloadapp https://github.com/ttzzttzz/myapp.git
+src-git passwallapp https://github.com/kenzok8/litte.git
