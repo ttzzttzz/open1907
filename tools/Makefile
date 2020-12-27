@@ -8,7 +8,7 @@
 #
 curdir:=tools
 
-# subdirectories to descend into
+# subdirectories to descend int
 tools-y :=
 
 ifeq ($(CONFIG_EXTERNAL_TOOLCHAIN),)
